@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Lucky number</string>
+
+    <string name="age_box">Tell me your age...</string>
+    <string name="name_box">Give me your name...</string>
+
+    <!--Button name-->
+    <string name="btn_name">Click here!</string>
+    <string name="btn_back">Go back</string>
+
+    <!--TextView-->
+    <string name="txtWelcome">Welcome!</string>
+    <string name="txtLuckyNumber">Your lucky number is...</string>
+</resources>

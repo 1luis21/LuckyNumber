@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age_box">Dime tu edad...</string>
+    <string name="name_box">Ingresa tu nombre...</string>
+
+    <string name="btn_name">Sorprendeme!</string>
+    <string name="btn_back">Volver</string>
+
+    <string name="txtWelcome">Bienvenido!</string>
+    <string name="txtLuckyNumber">Tu número de la suerte es...</string>
+</resources>
